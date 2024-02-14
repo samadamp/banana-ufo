@@ -1,0 +1,9 @@
+{
+  "name": "banana-ufo",
+  "version": "1.0.0",
+  "description": "A tiny experimental repo for students",
+  "main": "index.js",
+  "repository": "https://github.com/niklas-mardby/banana-ufo.git",
+  "author": "Niklas Mårdby <niklas.mardby@gmail.com>",
+  "license": "MIT"
+}
