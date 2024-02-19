@@ -17,3 +17,13 @@ yarn
 yarn build
 yarn start
 ```
+
+Med npm
+
+```
+git clone https://github.com/niklas-mardby/banana-ufo.git
+cd banana-ufo
+npm install
+npm run build
+npm run start
+```
