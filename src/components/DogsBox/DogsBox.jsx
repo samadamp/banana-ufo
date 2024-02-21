@@ -7,7 +7,10 @@ const DogsBox = () =>{
     return (<>
     <h2>DOG BOX</h2>
     {data.map((dogs) => {
-       return <Dogs name={dogs.name}  age={dogs.age}    Neutered={dogs.Neutered}/>
+       return <Dogs name={dogs.name} age={dogs.age} Neutered={dogs.Neutered}
+         image={dogs.image}
+       
+       />
        
     })}
     </>
