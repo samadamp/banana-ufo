@@ -1,3 +1,8 @@
-.click{
-    background-color: var(--navy-blue);
+.clickBtn{
+    font-size: 2rem;
+    border: 3px solid rgb(197, 179, 11);
+    border-radius: 2rem;
+    box-shadow: 3px 3px var(--pink);
+    cursor: pointer;
+    
 }

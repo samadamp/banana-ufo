@@ -1,0 +1,10 @@
+:root{
+    --cream: #f3ef9b;
+    --navy-blue: #000080;
+    --green: green;
+    --pink:rgb(245, 102, 125);
+}
+body{
+    background-color: rgb(210, 228, 111);
+    font-family: "Quicksand";
+}

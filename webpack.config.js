@@ -78,6 +78,10 @@ module.exports={
                 test: /\.css$/,
                 use: ['style-loader', 'css-loader']
             },
+            {
+                test: /\.svg$/, // Add this rule to handle SVG files
+                use: 'file-loader'
+            }
         ]
     }
 }

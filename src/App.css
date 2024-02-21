@@ -1,5 +1,18 @@
 
-p{
-    font-size: 2rem;
-    color: var(--navy-blue);
+section{
+display: flex;
+justify-content: space-evenly;
+
+}
+
+
+
+.clickBtn:nth-child(1) {
+    background-color: var(--navy-blue)
+}
+.clickBtn:nth-child(2) {
+    background-color: var(--green)
+}
+.clickBtn:nth-child(3) {
+    background-color: var(--cream)
 }
