@@ -4,25 +4,26 @@
             "name": "Maggie",
             "age": "4",
             "Neutered": "Yes",
-            "image": "img/dog1.jpg"
+            "image": "../../img/dog1.jpg"
         },
         {
             "name": "Benjamin",
             "age": "4",
             "Neutered": "No",
-            "image": "img/dog1.jpg"
+            "image": "../img/dog2.jpg"
         },
         {
             "name": "Buck",
             "age": "4",
             "Neutered": "Yes",
-            "image": "img/dog1.jpg"
+            "image": "../img/dog3.jpg"
         },
         {
             "name": "Sandy",
             "age": "4",
             "Neutered": "No",
-            "image": "img/dog1.jpg"
+            "image": "../img/dog4.jpg"
         }
     ]
 }
+
