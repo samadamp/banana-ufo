@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 section{
 display: flex;
@@ -16,3 +17,15 @@ justify-content: space-evenly;
 .clickBtn:nth-child(3) {
     background-color: var(--cream)
 }
+=======
+h1 {
+	padding: 1.5rem;
+	width: 50%;
+	border: 5px solid var(--aqua);
+	border-radius: 2rem;
+	box-shadow: 0 0 0 3px var(--rose-pink);
+	background-color: var(--bole);
+	text-align: center;
+	color: var(--vanilla);
+}
+>>>>>>> 6ae212c8034a063a83ce24377cae3027f545302e

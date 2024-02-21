@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Buttons from "./components/Buttons/Buttons"
 import UfoList from "./components/UFOLIST/UfoList"
 import Header from "./components/Header/header"
@@ -8,6 +9,9 @@ import "./App.css"
 
 
 
+=======
+import "./App.css";
+>>>>>>> 6ae212c8034a063a83ce24377cae3027f545302e
 
 const App = () => {
     const rubrik = "Hello"

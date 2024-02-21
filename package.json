@@ -24,7 +24,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "style-loader": "^3.3.4",
+<<<<<<< HEAD
     "webpack": "^5.90.3",
+=======
+    "webpack": "^5.90.1",
+>>>>>>> 6ae212c8034a063a83ce24377cae3027f545302e
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.2"
   }
